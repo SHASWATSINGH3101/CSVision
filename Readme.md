@@ -41,7 +41,7 @@ If you want to run the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/csvision.git
+git clone https://github.com/SHASWATSINGH3101/CSVision.git
 cd csvision
 
 # Install dependencies
