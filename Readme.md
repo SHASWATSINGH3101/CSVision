@@ -1,5 +1,9 @@
 # CSVision: AI-Powered Data Analysis with Groq LLM
 
+<img src="https://github.com/SHASWATSINGH3101/CSVision/blob/main/logo.png"
+     alt="Devecho" width="350" style="border-radius: 15px;">
+
+
 CSVision is a web-based tool that allows users to analyze CSV datasets using AI-powered natural language queries. It utilizes Groq's large language models to generate insights and visualizations based on user queries.
 
 ## 🚀 Features
