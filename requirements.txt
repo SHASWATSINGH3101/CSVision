@@ -1,0 +1,9 @@
+gradio
+pandas
+numpy
+matplotlib
+pillow
+base64
+llama-index-llms-groq
+llama-index-experimental
+llama-index
