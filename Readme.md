@@ -69,7 +69,7 @@ To cite this repository in publications:
 ```bibtex
 @misc{CSVision,
   author = {SHASWATSINGH3101},
-  title = {DevEcho},
+  title = {CSVision},
   year = {2025},
   howpublished = {\url{https://github.com/SHASWATSINGH3101/CSVision}},
   note = {GitHub repository},
