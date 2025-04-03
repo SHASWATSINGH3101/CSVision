@@ -50,11 +50,36 @@ pip install -r requirements.txt
 # Run the application
 python CSV_rag_.py
 ```
+---
 
-## 📝 License
-This project is open-source and available under the MIT License.
+## 🤝 Contributing
+We welcome contributions! Fork the repo, create a new branch, and submit a pull request.
 
 ---
 
-### ✉️ Contact
-For any issues or feature requests, feel free to raise an issue on the repository or reach out via Hugging Face Spaces.
+## License
+This project is licensed under the **MIT License**.
+
+---
+
+## Citing the Project
+
+To cite this repository in publications:
+
+```bibtex
+@misc{CSVision,
+  author = {SHASWATSINGH3101},
+  title = {DevEcho},
+  year = {2025},
+  howpublished = {\url{https://github.com/SHASWATSINGH3101/CSVision}},
+  note = {GitHub repository},
+}
+```
+
+---
+
+## Contact
+For inquiries or support, connect via:
+- 💬 **Discord:** shaswat_singh
+
+---
